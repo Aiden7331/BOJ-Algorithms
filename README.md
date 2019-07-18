@@ -7,41 +7,39 @@
 극장좌석
 외판원 문제
 
-#Greedy
+# Greedy
 Milk Scheduling
 
-#Dijkstra 
+# Dijkstra 
 파티
 네트워크 복구
 
-#Bellman Ford
+# Bellman Ford
 가장 높은 탑 쌓기
 
-#BFS
+# BFS
 빙산
 단지번호붙이기
 
-#Binary Search
+# Binary Search
 상금 헌터
 예산
 
-#BackTracking
+# BackTracking
 n-Queen
 스도쿠
 graph coloring
 
-#Disjoint Set
+# Disjoint Set
 방 청소
 공항
 
 # Maximum Flow
-
 최대 유량
 
-#Bipartite Matching
-
+# Bipartite Matching
 열혈강호
 열혈강호2
 
-#Math | Probability | Statistics
+# Math | Probability | Statistics
 상금 헌터
