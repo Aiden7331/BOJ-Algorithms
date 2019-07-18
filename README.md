@@ -1,7 +1,7 @@
 ## BOJ-Algorithms
 
 ### Dynamic Programming
-감소하는 수  이친수  동전 2  극장좌석  외판원 문제
+감소하는 수  이친수   동전 2  극장좌석  외판원 문제
 
 ### Greedy
 Milk Scheduling
