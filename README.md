@@ -8,7 +8,7 @@
 - 외판원 문제
 
 ### Greedy
-Milk Scheduling
+- Milk Scheduling
 
 ### Dijkstra 
 - 파티  
