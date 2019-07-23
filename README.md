@@ -1,11 +1,15 @@
 ## BOJ-Algorithms
 
+### Normal
+- 성 지키기
+
 ### Dynamic Programming
 - 감소하는 수  
 - 이친수   
 - 동전 2  
 - 극장좌석  
 - 외판원 문제
+- RGB 거리
 
 ### Greedy
 - Milk Scheduling
@@ -40,6 +44,7 @@
 ### Bipartite Matching
 - 열혈강호  
 - 열혈강호2
+- 축사배정
 
 ### Math | Probability | Statistics
 - 상금 헌터
