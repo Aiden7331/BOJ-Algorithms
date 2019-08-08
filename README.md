@@ -2,6 +2,7 @@
 
 ### Normal
 - 성 지키기
+- 나무 조각
 
 ### Dynamic Programming
 - 감소하는 수  
@@ -17,6 +18,7 @@
 ### Dijkstra 
 - 파티  
 - 네트워크 복구
+- 녹색 옷 입은 애가 젤다지?
 
 ### Bellman Ford
 - 가장 높은 탑 쌓기
