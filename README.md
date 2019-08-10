@@ -51,5 +51,8 @@
 - 열혈강호2
 - 축사배정
 
+### Strongly Connected Component
+- 도미노
+
 ### Math | Probability | Statistics
 - 상금 헌터
