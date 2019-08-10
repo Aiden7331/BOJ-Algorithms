@@ -15,6 +15,9 @@
 #### DP - bitmask
 - 계단 수
 
+#### DP - 3
+- 피보나치 수 3
+
 ### Greedy
 - Milk Scheduling
 
@@ -56,3 +59,5 @@
 
 ### Math | Probability | Statistics
 - 상금 헌터
+- 곱셈
+- 행렬곱셈
