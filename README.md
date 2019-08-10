@@ -12,6 +12,9 @@
 - 외판원 문제
 - RGB 거리
 
+#### DP - bitmask
+- 계단 수
+
 ### Greedy
 - Milk Scheduling
 
