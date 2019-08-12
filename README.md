@@ -55,7 +55,9 @@
 - 축사배정
 
 ### Strongly Connected Component
+- Strongly Connected Component
 - 도미노
+- 여행 계획 세우기
 
 ### Math | Probability | Statistics
 - 상금 헌터
