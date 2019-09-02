@@ -11,6 +11,7 @@
 - 극장좌석  
 - 외판원 문제
 - RGB 거리
+- 2xn 타일링
 
 #### DP - bitmask
 - 계단 수
@@ -45,6 +46,9 @@
 ### Disjoint Set
 - 방 청소 
 - 공항
+
+### MST
+- 별자리 만들기
 
 ### Maximum Flow
 - 최대 유량
