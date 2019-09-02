@@ -1,4 +1,4 @@
-/* Prim's Algorithm 으로 해결 */
+/* Prim's Algorithm */
 
 #include <iostream>
 #include <vector>
@@ -53,7 +53,7 @@ int main() {
 			}
 		}
 		if (mini == INF) break;
-		F.push_back({ E[next],next }); // answer is result of prim's algorithm
+		F.push_back({ E[next],next }); 
 		u = next;
 	}
 	vector<vector<int>>::iterator it = F.begin();
